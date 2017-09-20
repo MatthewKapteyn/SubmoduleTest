@@ -1,0 +1,3 @@
+[submodule "Huawei_Unlock"]
+	path = Huawei_Unlock
+	url = https://github.com/MatthewKapteyn/Huawei_Unlock.git
