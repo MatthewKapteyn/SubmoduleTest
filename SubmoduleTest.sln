@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubmoduleTest", "SubmoduleTest\SubmoduleTest.csproj", "{DC290C75-F8A0-4886-92E1-B486CAF7D92C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huawei_Unlock", "..\Huawei_Unlock\Huawei_Unlock\Huawei_Unlock.csproj", "{362DC6DD-99FE-497A-B61F-FB455175CDAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DC290C75-F8A0-4886-92E1-B486CAF7D92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC290C75-F8A0-4886-92E1-B486CAF7D92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC290C75-F8A0-4886-92E1-B486CAF7D92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{362DC6DD-99FE-497A-B61F-FB455175CDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362DC6DD-99FE-497A-B61F-FB455175CDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362DC6DD-99FE-497A-B61F-FB455175CDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362DC6DD-99FE-497A-B61F-FB455175CDAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
