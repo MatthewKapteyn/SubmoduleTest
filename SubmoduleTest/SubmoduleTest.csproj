@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Huawei_Unlock\Huawei_Unlock\Huawei_Unlock.csproj" />
+    <ProjectReference Include="..\Huawei_Unlock\Huawei_Unlock\Huawei_Unlock.csproj" />
   </ItemGroup>
 
 </Project>
